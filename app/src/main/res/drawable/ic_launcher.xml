@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#14141F" android:pathData="M24,0 H84 A24,24 0 0 1 108,24 V84 A24,24 0 0 1 84,108 H24 A24,24 0 0 1 0,84 V24 A24,24 0 0 1 24,0 Z"/>
+    <path android:strokeColor="#D4AF37" android:strokeWidth="4" android:strokeLineJoin="round" android:strokeLineCap="round" android:pathData="M34,60 V40 Q34,28 54,12 Q74,28 74,40 V60"/>
+    <path android:strokeColor="#7C4DFF" android:strokeWidth="2" android:strokeLineJoin="round" android:strokeLineCap="round" android:pathData="M42,60 V42 Q42,34 54,24 Q66,34 66,42 V60"/>
+    <path android:fillColor="#D4AF37" android:pathData="M54,32 L57,39 L64,42 L57,45 L54,52 L51,45 L44,42 L51,39 Z"/>
+    <path android:fillColor="#E8E0FF" android:pathData="M20,68 h8 a2,2 0 0 1 2,2 v4 a2,2 0 0 1 -2,2 h-8 a2,2 0 0 1 -2,-2 v-4 a2,2 0 0 1 2,-2 z"/>
+    <path android:fillColor="#E8E0FF" android:pathData="M35,68 h8 a2,2 0 0 1 2,2 v4 a2,2 0 0 1 -2,2 h-8 a2,2 0 0 1 -2,-2 v-4 a2,2 0 0 1 2,-2 z"/>
+    <path android:fillColor="#D4AF37" android:pathData="M50,68 h8 a2,2 0 0 1 2,2 v4 a2,2 0 0 1 -2,2 h-8 a2,2 0 0 1 -2,-2 v-4 a2,2 0 0 1 2,-2 z"/>
+    <path android:fillColor="#E8E0FF" android:pathData="M65,68 h8 a2,2 0 0 1 2,2 v4 a2,2 0 0 1 -2,2 h-8 a2,2 0 0 1 -2,-2 v-4 a2,2 0 0 1 2,-2 z"/>
+    <path android:fillColor="#E8E0FF" android:pathData="M80,68 h8 a2,2 0 0 1 2,2 v4 a2,2 0 0 1 -2,2 h-8 a2,2 0 0 1 -2,-2 v-4 a2,2 0 0 1 2,-2 z"/>
+    <path android:fillColor="#E8E0FF" android:pathData="M32,80 h44 a2,2 0 0 1 2,2 v4 a2,2 0 0 1 -2,2 h-44 a2,2 0 0 1 -2,-2 v-4 a2,2 0 0 1 2,-2 z"/>
+    <path android:fillColor="#E8E0FF" android:pathData="M20,80 h6 a2,2 0 0 1 2,2 v4 a2,2 0 0 1 -2,2 h-6 a2,2 0 0 1 -2,-2 v-4 a2,2 0 0 1 2,-2 z"/>
+    <path android:fillColor="#E8E0FF" android:pathData="M82,80 h6 a2,2 0 0 1 2,2 v4 a2,2 0 0 1 -2,2 h-6 a2,2 0 0 1 -2,-2 v-4 a2,2 0 0 1 2,-2 z"/>
+</vector>
